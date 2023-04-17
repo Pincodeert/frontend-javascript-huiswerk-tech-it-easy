@@ -1,4 +1,8 @@
 // VOORRAAD ARRAY MET TV'S
+
+//check voor mezelf of dit js bestand goed gekoppeld is met de index.html
+console.log("hoi hoi");
+
 const inventory = [
   {
     type: '43PUS6504/12',
@@ -161,3 +165,5 @@ const inventory = [
     sold: 8,
   },
 ];
+
+
