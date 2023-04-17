@@ -1,0 +1,15 @@
+#sold {
+    color: green;
+}
+
+#stock {
+    color: blue;
+}
+
+#toBeSold {
+    color: red;
+}
+
+#brands {
+    font-weight: bold;
+}
